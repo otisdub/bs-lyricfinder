@@ -1,5 +1,5 @@
 # LyricFinder
-Hello everyone! This is LyricFinder. Here is how to set this mod up.
+Hello everyone! This is LyricFinder. Here is how to install this mod.
 
 ## Requirements
 - Beat Saber
